@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>Cookie-Regular.ttf</file>
+        <file>pdftoword.png</file>
+        <file>BlockLoader.qml</file>
+        <file>Tap.qml</file>
+        <file>LinkButton.qml</file>
+        <file>change.log</file>
+        <file>translations/translators.log</file>
+        <file>translations/pdftowordar.qm</file>
+        <file>translations/pdftoworden.qm</file>
+    </qresource>
+</RCC>

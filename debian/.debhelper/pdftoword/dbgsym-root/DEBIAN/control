@@ -1,0 +1,13 @@
+Package: pdftoword-dbgsym
+Package-Type: ddeb
+Source: pdftoword
+Version: 1.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: foxoman <sultan@foxoman.net>
+Installed-Size: 319
+Depends: pdftoword (= 1.0-1)
+Section: debug
+Priority: extra
+Description: Debug symbols for pdftoword
+Build-Ids: 7ff9e72f0e602a8fde970912313e6d0da4f1011c

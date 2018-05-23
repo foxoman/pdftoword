@@ -1,0 +1,11 @@
+  [Desktop Entry]
+  Version=1.0
+  Type=Application
+  Terminal=false
+  Name=pdftoword
+  Exec=/usr/bin/pdftoword %F
+  Comment=pdf to word converter
+  Icon=/usr/share/pixmaps/pdftoword.png
+  StartupNotify=false
+  Encoding=UTF-8
+  Categories=TextEditor;WordProcessor;Development;GTK;GNOME;

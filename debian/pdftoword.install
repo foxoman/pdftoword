@@ -1,0 +1,3 @@
+  bin/pdftoword usr/bin
+  pdftoword.desktop usr/share/applications
+  pdftoword.png usr/share/pixmaps

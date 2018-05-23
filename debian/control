@@ -1,0 +1,15 @@
+Source: pdftoword
+Section: office
+Priority: optional
+Maintainer: foxoman <sultan@foxoman.net>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/foxoman/pdftoword
+#Vcs-Git: https://anonscm.debian.org/collab-maint/pdftoword.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/pdftoword.git
+
+Package: pdftoword
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: pdf to word converter
+ Converting PDF files to an editable word files using LibreOffice command line tools.
