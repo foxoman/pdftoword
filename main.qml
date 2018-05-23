@@ -764,7 +764,7 @@ ApplicationWindow {
                     anchors.fill: parent
 
                     Label {
-                        text: qsTr("<b>Version:</b> 1.0.0")
+                        text: qsTr("<b>Version:</b> 1.0.1 Final")
                         font.bold: true
                         verticalAlignment: Text.AlignVCenter
                         horizontalAlignment: Text.AlignHCenter
