@@ -4,6 +4,8 @@ This is a free and open source pdf to word converter application written using *
 It support converting any pdf file to an editable word file.
 It use the **LibreOffice** command line tool as it work as a GUI.
 
+### To install download: https://github.com/foxoman/pdftoword/releases/download/v1.0.1/Pdftoword-1.0-final-x86_64.AppImage
+
 ## Screenshot
 
 ![enter image description here](https://pbs.twimg.com/media/DdeXU8iUwAASvqg.jpg)
